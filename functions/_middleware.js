@@ -7,6 +7,7 @@ const INDEXABLE_PATHS = new Set([
   "/aplicacoes/fita-led-para-sanca-gesso/",
   "/aplicacoes/iluminacao-led-para-loja-vitrine/",
   "/blog/fita-led-cob-ou-fita-led-comum/",
+  "/contato/",
   "/produtos/fita-de-led/",
   "/produtos/fita-led-cob/",
   "/produtos/fita-led-cob/fita-led-cob-24v/",
